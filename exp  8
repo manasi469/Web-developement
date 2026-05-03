@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>Bill</title>
+</head>
+<body>
+<table border = 1>
+<caption>Grocery Bill</caption>
+<tr bgcolor="pink">
+<th>Sr.No</th>
+<th>items</th>
+<th>Qty</th>
+<th>price</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>abc</td>
+<td>5</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>xyz</td>
+<td>1</td>
+<td>100</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>mno</td>
+<td>6</td>
+<td>600</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>pqr</td>
+<td>2</td>
+<td>200</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>klm</td>
+<td>3</td>
+<td>300</td>
+</tr>
+<tr>
+<td colspan = 3>total</td>
+<td>1300/-</td>
+</tr>
+</table>
+</body>
+</html>
