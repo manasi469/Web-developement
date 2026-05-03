@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Use of iframe</title>
+</head>
+<body>
+<iframe src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXY0w2dUuNRp4qk-DX--S0HmIpy2NUiXWN9Q&s" width="200" height="200"></iframe>
+<br><br>
+<iframe src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQRGLG6je-GKhguf8zK3ErzznWmGVvuUCYg&s" width="300" height="200"></iframe>
+<iframe src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TT_YSXt7cMY9Bl5gkpIA8wWWfpVClKYb8g&s" width="300" height="200"></iframe>
+<iframe src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjp9jj-s5nn58gOpfFBiKZFy0RsKHWGToMIQ&s" width="300" height="200"></iframe>
+</body>
+</html>
