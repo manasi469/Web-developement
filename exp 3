@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>tages</title>
+</head>
+<body>
+<h1>Information of HTML</h1>
+<hr>
+<pre>
+<b> sr.No   version</b>
+   1         HTML
+   2         HTML2
+   3         HTML3
+   4         HTML4
+</pre>
+<p><mark><b>Hypertext Markup Language (HTML)</mark></b>is the standard markup language[a] for documents designed to be displayed in a web browser.<br>In 1980, the physicist<strong> Tim Berners-Lee</strong>,a contractor at <del> CERN</del> <ins> CERN</ins>, proposed and prototyped ENQUIRE, a system for CERN researchers to use and share documents.<br>In 1989, Berners-Lee wrote a memo proposing an Internet-based hypertext system.<br><i>CSS (Cascading Style Sheets): Defines the visual appearance, styling (colors, fonts, layout), and presentation of the HTML elements.<br>
+JavaScript: A scripting language that adds interactivity and dynamic functionality to the webpage.</i><br><em>HTML is not a programming language but works in concert with Cascading Style Sheets (CSS)<strike>for</strike> visual presentation and JavaScript for interactivity.</em><br><small>HTML's five main uses are structuring web pages (headings, paragraphs, links), embedding multimedia (images, video, audio),&nbsp; enabling internet navigation (hyperlinks), creating web applications/forms (data entry), and building email templates</small></p>
+</body>
+<html>
