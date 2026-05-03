@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>Form</title>
+</head>
+<body>
+<form action = "exp 9.1.html">
+<h1 align = "center"><b>Registration Form</b></h1>
+<p><b>Student Details!</b></p>
+<label>First Name:</label>
+<input type ="text" required><br>
+<label>Middle Name:</label>
+<input type ="text" required><br>
+<label>Last Name:</label>
+<input type = "text" required><br>
+<label>Mobile Number:</label>
+<input type = "text" required><br>
+<label>email id:</label>
+<input type = "text" required><br>
+<label>Birth Date:</label>
+<input type = "text" required>
+
+<p><b>Gender</b></p> 
+<input type = "radio">
+<label>Male</lable><br>
+<input type = "radio">
+<label>Female</label><br>
+<input type = "radio">
+<lable>Other</label><br>
+
+<p><b>Enter your address!</b></p>
+<label>village:</label>
+<input type = "text" required><br>
+<label>Tal:</label>
+<input type = "text" required><br>
+<label>Dist:</label>
+<input type = "text" required><br>
+<label>PinCode:</label>
+<input type = "text" required>
+
+<p><b>College Details</b></p>
+<label>College Name:</label>
+<select required>
+<option value="">Select College</option>
+<option>DYP College of Engineering</option>
+<option>COEP Pune</option>
+<option>MIT College</option>
+<option>PCCOE Pune</option>
+<option>Other</option>
+</select>
+<br>
+<label>Batch:</label>
+<select required>
+<option value="">Select Batch</option>
+<option>2022-2026</option>
+<option>2023-2027</option>
+<option>2024-2028</option>
+<option>2025-2029</option>
+</select>
+
+<p><b>Student Education Details</b></p>
+<label>10th Marks</label>
+<input type ="text" required><br>
+<label>12th Marks</label>
+<input type ="text" required><br>
+<label>CET Marks</label>
+<input type = "text" required>
+
+<p><b>choose which course you want??</b></p>
+<input type = "checkbox">
+<label>Python</label><br>
+<input type = "checkbox">
+<label>Java</label><br>
+<input type = "checkbox">
+<label>HTML</label><br>
+<input type = "checkbox">
+<label>CSS</label><br>
+<input type = "checkbox">
+<label>Java Script</label><br>
+<input type = "checkbox">
+<label>C</label><br>
+<input type = "checkbox">
+<label>CPP</label><br>
+
+<p><b>Submit the form </b></p>
+<input type = "submit" value = "Submit">
+
+
+</form>
+</body>
+</html>
