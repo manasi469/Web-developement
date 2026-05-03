@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Menu Card</title>
+</head>
+<body>
+<table border=1>
+<caption>Menu</caption>
+<tr bgcolor="green">
+<th>Sr.No</th>
+<th>Type</th>
+<th>menu</th>
+<th>Price</th>
+</tr>
+<tr>
+<td rowspan=2>1.</td>
+<td rowspan=2>Veg</td>
+<td>paneer</td>
+<td>60</td>
+<tr rowspan=2>
+<td>Pav bhaji</td>
+<td>40</td>
+</tr>
+</tr>
+<tr>
+<td rowspan=2>2.</td>
+<td rowspan=2> Non-Veg</td>
+<td>Chicken</td>
+<td>100</td>
+<tr rowspan=2>
+<td>Fish</td>
+<td>100</td>
+</tr>
+</tr>
+</table>
+</body>
+</html>
